@@ -1,6 +1,6 @@
 # Ruin - Roguelike Game
 
-A procedurally generated roguelike game built with Godot 4.x and C#.
+A procedurally generated roguelike game built with C#.
 
 ## Features Implemented
 
